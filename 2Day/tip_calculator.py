@@ -7,3 +7,7 @@ total_bill = bill+ (bill * tip_percent) / 100
 print("each person should pay")
 print(round(total_bill/no_of_people, 2))
 
+
+
+
+
